@@ -1,0 +1,10 @@
+file:
+  use_llama_parse: false
+
+# web:
+#   reader: SimpleWebPageReader
+#   html_to_text: true
+#   urls:
+#     - base_url: "https://zemelah.online/"
+#       prefix: ""
+    

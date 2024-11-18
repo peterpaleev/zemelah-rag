@@ -1,0 +1,12 @@
+
+- make table with chunks and links in each cell (text, link_url, link_title, link_description):
+ 
+ 
+
+
+sourses view:
+- message must be with links to the site 
+
+so, 
+- make endpoint that will return chunk text + links to the site 
+- make a view of a sourses with links (and some description) to the site 
