@@ -1,0 +1,6 @@
+# Ignore environment files
+.env
+.venv/
+llama/zemelah-test/backend/.env
+# Ignore node_modules in the frontend folder
+/frontend/node_modules/ 
